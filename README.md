@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hello World! 👋
+
+## Interests
+### Computer Science
+Object-oriented programming, frontend development, can do backend development
+
+### General
+Video games, table-top games, cats
+
+## Languages
+### Programming
+C#, Java, Javascript, Python, C++, C, SQL, CSS, HTML
+
+### Communication
+English
+
+## Education
+Bachelor's in Computer Science from University of South Florida
 
 <!--
 **GoodPalAl/GoodPalAl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
